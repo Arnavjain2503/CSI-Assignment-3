@@ -41,4 +41,9 @@ This project demonstrates how to convert Node.js asynchronous code from **callba
 - **Promise** — Better for chaining.
 - **Async/Await** — Cleanest and modern approach.
 
-![Output Screenshot](output.png)
+## 📸 Output Screenshot
+
+Here is a sample terminal output:
+
+![Output Screenshot](callback-to-async-demo/output.png)
+
